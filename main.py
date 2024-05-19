@@ -11,7 +11,6 @@ from FloorplanToBlenderLib import (
 import os
 
 
-
 def create_blender_project(data_paths):
     if not os.path.exists("." + target_folder):
         os.makedirs("." + target_folder)
