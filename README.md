@@ -81,17 +81,11 @@ See the **/examples** folder for more visuals.
 - `torch`, `numpy`, `scikit-learn`, `plotly`, `trimesh`, `tqdm`, `matplotlib`
 - Python 3.8+
 
-## 📚 Cite this work
-```bibtex
-@misc{3dmodelgen,
-  author = {Ratrey, Srijan},
-  title = {3D Model Generation with GANs and Gaussian Splatting},
-  year = {2025},
-  howpublished = {\url{https://github.com/Srijan-Ratrey/3D-Model-Generation}}
-}
-```
 
-## 👤 Author
+
+## 👤 Authors
+**Parth Bhandakkar** – B.Tech ECE student @ IIIT Naya Raipur 
+[GitHub profile](https://github.com/ParthBhandakkar)
 **Srijan Ratrey** – B.Tech AI/DS student @ IIIT Naya Raipur  
 [GitHub profile](https://github.com/Srijan-Ratrey)
 
